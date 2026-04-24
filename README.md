@@ -5,6 +5,6 @@
 - 🌱 I'm a Software Engineer and have experience with Software Development, Full Stack Development and more.
 - 🔭 I’m currently working on Quantum Computing Research and learning Game Development
 - 📫 Learn more about me through my website and LinkedIn:
-    - [Website](https://mamoon794.github.io)
+    - [https://mamoonakhtar.com](https://mamoonakhtar.com)
     - [linkedin/mamoon-akhtar](https://www.linkedin.com/in/mamoon-akhtar/)
 
